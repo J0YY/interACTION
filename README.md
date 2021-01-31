@@ -1,4 +1,4 @@
-# interACTION: an optimal solution to the rising levels of depression and mental illness as a result of COVID-19 induced social isolation and loneliness
+# interACTION Chat: where you can chat anonymously with people experiencing the same feelings as you without fear of judgement
 
 As isolation and loneliness increase during the pandemic, people are left to communicate through social media and online methods. 53% of Americans reported that their mental health was negatively impacted by COVID-19 related issues, while Canadians are reporting their highest levels of anxiety (23%) and depression (15%) higher than during the first COVID-19 wave.
 
